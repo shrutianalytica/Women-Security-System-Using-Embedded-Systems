@@ -49,5 +49,4 @@ See [components_list.png](./components_list.png) for full details.
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
-![GitHub Repo](https://img.shields.io/badge/status-complete-brightgreen)
 
