@@ -27,7 +27,7 @@ See [components_list.png](./components_list.png) for full details.
 
 ## 📊 Block Diagram
 
-![Block Diagram](diagram/block_diagram.png)
+![Block Diagram](diagrams/block_diagram.png)
 
 ## 🚀 How It Works
 
