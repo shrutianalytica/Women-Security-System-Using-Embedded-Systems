@@ -19,7 +19,7 @@ A wearable safety device that uses an Arduino Nano with GPS and GSM modules to s
 - Buzzer
 - Power Supply
 
-See [components_list.png](./components_list.png) for full details.
+See [Components List](./components_list.png) for full details.
 
 ## 🔧 Circuit Diagram
 
