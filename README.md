@@ -23,11 +23,11 @@ See [components_list.png](./components_list.png) for full details.
 
 ## 🔧 Circuit Diagram
 
-![Circuit Diagram](./diagram/circuit_diagram.png)
+![Circuit Diagram](diagrams/circuit_diagram.png)
 
 ## 📊 Block Diagram
 
-![Block Diagram](./diagram/block_diagram.png)
+![Block Diagram](diagram/block_diagram.png)
 
 ## 🚀 How It Works
 
